@@ -1,16 +1,44 @@
-# flutter_initial_screens
+## Description
+<br>
+<br>
+<h3 align="center">
+ This project is a simple exercise to learn the concepts presented in class.
+It has a splash screen that is active for 3 seconds, a login screen and a home screen
+</h3>
+<br>
+<br>
 
-A new Flutter project.
+## Built With
 
-## Getting Started
+<p align="center">
 
-This project is a starting point for a Flutter application.
+  <img  src="https://blog.scottlogic.com/bquinn/assets/Flutter_logo_text.png" height="120px"/>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## Running the project locally 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone this repository into your machine:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/rudarabello/flutter_initial_screens.git
+```
+2. With the repository cloned, open the repository root in your terminal and run the command:
+
+```bash
+bash ./flutter_packages.sh
+```
+
+3. Everything working fine, without any errors, run the app with the following command:
+
+```bash
+flutter run --flavor development -t lib/main.dart
+```
+
+4. Have fun!
+
+## Made by:
+
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/ruda-rabello-da-silva/"><img src="https://avatars.githubusercontent.com/u/95311365?s=96&v=4" width="80px;" alt="Rudá Rabello"/><br /><sub><b>Rudá Rabello</b></sub></a><br /><a href="https://www.linkedin.com/in/ruda-rabello-da-silva/"title="Code">💻</a></td></td>
+</table>
