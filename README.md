@@ -22,16 +22,15 @@ It has a splash screen that is active for 3 seconds, a login screen and a home s
 ```bash
 git clone https://github.com/rudarabello/flutter_initial_screens.git
 ```
-2. With the repository cloned, open the repository root in your terminal and run the command:
+2. Go to root of project:
 
 ```bash
-bash ./flutter_packages.sh
+cd flutter_initial_screens
 ```
-
-3. Everything working fine, without any errors, run the app with the following command:
+3. Everything working fine and your emulator/device opened, run the app with the following command:
 
 ```bash
-flutter run --flavor development -t lib/main.dart
+flutter run -t lib/main.dart
 ```
 
 4. Have fun!
